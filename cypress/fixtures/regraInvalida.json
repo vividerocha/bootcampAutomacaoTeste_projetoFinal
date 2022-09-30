@@ -1,0 +1,43 @@
+{
+    "Regra": {
+        "IdRegra": 0,
+        "IdParceiro": 1,
+        "IdUnidadeNegocio": 1,
+        "ParceiroUTM": "b2b_tesla2193",
+        "MidiaUTM": "tesla2193",
+        "CampanhaUTM": "",
+        "CodigoPromocao": null,
+        "CodigoLoja": null,
+        "Tipo": "R",
+        "Vigencia": {
+            "DataInicial": "2022-08-21T00:00:00.000Z",
+            "DataFinal": "2022-08-22T23:59:59.999Z"
+        },
+        "Promocional": true,
+        "Ativa": true,
+        "PermiteLojista": true,
+        "PermiteBoleto": true,
+        "FormaPagamentos": [
+            {
+                "IdRegra": 0,
+                "IdFormaPagamento": 1,
+                "Valor": 6,
+                "Tipo": "R",
+                "ValorViaVarejo": 3,
+                "ValorParceiro": 3,
+                "BinsPagamentos": [
+                    841245
+                ],
+                "HabilitaRegraBinCartao": true,
+                "ValorPontoParceiroBin": 4,
+                "ValorPontoViaVarejoBin": 4,
+                "ValorBin": 8
+            }
+        ],
+        "Valor": 2,
+        "SubsidioPontoViaVarejo": 1,
+        "SubsidioPontoParceiro": 1,
+        "PontoMarketPlace": 1,
+        "ComSubsidio": false
+    }
+}
